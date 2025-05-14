@@ -14,7 +14,7 @@ const Navbar = () => {
                trigger="hover"
                stroke="bold"
             ></lord-icon>
-            <a className="text-xl font-bold" href="https://github.com/Dudam-Neeraj-Dattu" target="_blank" rel="noopener noreferrer">Github</a>
+            <a className="text-xl font-bold" href="https://github.com/Dudam-Neeraj-Dattu/NeePass" target="_blank" rel="noopener noreferrer">Github</a>
             
          </div>
       </div>
