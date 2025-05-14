@@ -15,6 +15,12 @@ NeePass, a full-stack password manager application designed to store and manage 
 - **Asynchronous Operations:** Handles API requests and responses using Redux Thunk and Axios.
 - **RESTful API:** Backend exposes structured endpoints for all CRUD operations.
 - **Responsive UI:** Clean and intuitive interface for managing credentials with Tailwind CSS.
+- **Smooth Animations:** Utilized Toast notifications and Lordicon animations to provide clean, interactive feedback for actions such as copying, viewing/hiding passwords, editing, and deleting entries, enhancing the user experience.
+
+## Working Demo
+
+![NeePass Demo](./public/demo.gif)
+
 
 ## Getting Started
 
